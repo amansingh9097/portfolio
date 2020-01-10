@@ -9,7 +9,7 @@ email: amansingh9097@gmail.com
 # phone: Your phone number (optional)
 website: https://amansingh9097.github.io/portfolio/
 
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: yum_dude
@@ -48,7 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aman Singh and I'm a goal oriented Data Scientist with demonstrated ability to deliver valuable insights via data science and analytics; and develop and entire AI based solution around it. 
   I would like to be a jack of all trade. I develop interests and hobbies that keep changing from season to season. Sometimes I feel I'll end up being a dilettante of many areas.  
   
-  my definition of 3D: <mark>Deadlifts</mark>, <mark>Donuts</mark> and <mark>Data Science</mark>
+  I have worked with a range of different libraries and frameworks and I am always looking for opportunities to work with something new.
+  
+  my favourite 3D: <mark>Deadlifts</mark>, <mark>Donuts</mark> and <mark>Data Science</mark>
 
 # Projects Section
 # projects_title: Some of my Projects #(Use this to override about projects section title)
