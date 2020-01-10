@@ -28,8 +28,8 @@
         {%- include education.html -%}
       {%- endif -%}
       
-      {%- if site.more_content -%}
-        {%- include more.html -%}
+      {%- if site.data.skills.size > 0 -%}
+        {%- include skills.html -%}
       {%- endif -%}
       
       {%- if site.more_content -%}
