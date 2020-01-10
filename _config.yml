@@ -64,9 +64,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 skills_title: Skills
 skills_content: | # this will include new lines to allow paragraphs
-  - Programming: <mark>Python</mark>,<mark>SQL</mark>,<mark>C++</mark>,<mark>Brainfuck</mark>
-  - Machine Learning: <mark>Regression</mark>,<mark>Classification & Clustering</mark>,<mark>Ensemble</mark>,<mark>Regularization</mark>,<mark>Feature Engineering</mark>,<mark>Association Rule Mining</mark>,<mark>Dimensionality Reduction</mark>,<mark>Natural Language Processing</mark>
-  - Deep Learning: <mark>Artificial Neural Network</mark>,<mark>Computer Vision & Conv. Neural Nets</mark>,<mark>Recurrent Neural Nets & LSTM</mark>,<mark>Generative Adversarial Networks</mark>
+  - <mark>Programming</mark>: Python, SQL, C++, Brainfuck
+  - <mark>Machine Learning</mark>: Regression, Classification & Clustering, Ensemble, Regularization, Feature Engineering, Association Rule Mining, Dimensionality Reduction, Natural Language Processing
+  - <mark>Deep Learning</mark>: Artificial Neural Network, Computer Vision & Conv. Neural Nets, Recurrent Neural Nets & LSTM, Generative Adversarial Networks
+  - <mark>Tools & Lib</mark>: IBM DB2, PostgreSQL, SQL, Keras & Tensorflow, AWS, GCC, Github, BitBucket, Streamsets, Power BI, Flask web-framework
 
 # More Section
 more_title: When I'm not programming
