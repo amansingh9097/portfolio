@@ -62,6 +62,13 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
+more_title: Skills
+more_content: | # this will include new lines to allow paragraphs
+  - Programming: <mark>Python</mark>,<mark>SQL</mark>,<mark>C++</mark>,<mark>Brainfuck</mark>
+  - Machine Learning: <mark>Regression</mark>,<mark>Classification & Clustering</mark>,<mark>Ensemble</mark>,<mark>Regularization</mark>,<mark>Feature Engineering</mark>,<mark>Association Rule Mining</mark>,<mark>Dimensionality Reduction</mark>,<mark>Natural Language Processing</mark>
+  - Deep Learning: <mark>Artificial Neural Network</mark>,<mark>Computer Vision & Conv. Neural Nets</mark>,<mark>Recurrent Neural Nets & LSTM</mark>,<mark>Generative Adversarial Networks</mark>
+
+# More Section
 more_title: When I'm not programming
 more_content: | # this will include new lines to allow paragraphs
   When I'm not sitting in front of my laptop, I can be found doing either of these:
