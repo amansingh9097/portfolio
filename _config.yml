@@ -7,7 +7,7 @@ name: Aman Singh
 title: Data Scientist
 email: amansingh9097@gmail.com
 # phone: Your phone number (optional)
-website: https://amansingh9097.github.io/portfolio/
+website: [aman-singh.com](https://www.aman-singh.com)
 
 darkmode: false
 
@@ -50,7 +50,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   I have worked with a range of different libraries and frameworks and I am always looking for opportunities to work with something new.
   
-  my favourite 3D: <mark>Deadlifts</mark>, <mark>Donuts</mark> and <mark>Data Science</mark>
+  
+  my definition of 3D: <mark>Deadlifts</mark>, <mark>Donuts</mark> and <mark>Data Science</mark>
 
 # Projects Section
 # projects_title: Some of my Projects #(Use this to override about projects section title)
@@ -67,7 +68,9 @@ skills_content: | # this will include new lines to allow paragraphs
   - <mark>Programming</mark>: Python, SQL, C++, Brainfuck
   - <mark>Machine Learning</mark>: Regression, Classification & Clustering, Ensemble, Regularization, Feature Engineering, Association Rule Mining, Dimensionality Reduction, Natural Language Processing
   - <mark>Deep Learning</mark>: Artificial Neural Network, Computer Vision & Conv. Neural Nets, Recurrent Neural Nets & LSTM, Generative Adversarial Networks
-  - <mark>Tools & Lib</mark>: IBM DB2, PostgreSQL, SQL, Keras & Tensorflow, AWS, GCC, Github, BitBucket, Streamsets, Power BI, Flask web-framework
+  - <mark>Databases</mark>: IBM DB2, PostgreSQL, MySQL, SQL Server Management Studio
+  - <mark>Platforms</mark>: Amazon Web Server, Google Compute Cloud, Google Collab
+  - <mark>Tools, Libs & Frameworks</mark>: Keras, PyTorch, Github, BitBucket, Streamsets, Power BI, Flask web-framework
 
 # More Section
 more_title: When I'm not programming
