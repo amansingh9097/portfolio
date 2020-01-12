@@ -1,3 +1,3 @@
 # my-online-portfolio
-*showcasing my years of work experience and some of the projects done.*
+*showcasing my years of work experience and some of the projects done.* <br>
 [aman-singh.com](https://www.aman-singh.com)
