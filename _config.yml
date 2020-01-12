@@ -5,21 +5,23 @@ favicon: images/favicon.ico
 # Personal info
 name: Aman Singh
 title: Data Scientist
+icon: images/india-flag-icon-16.png
 email: amansingh9097@gmail.com
 # phone: Your phone number (optional)
-website: https://www.aman-singh.com
+website: www.aman-singh.com
 
 darkmode: false
 
 # Social links
-twitter_username: yum_dude
+linkedin_username: amansingh9097
 github_username:  amansingh9097
+instagram_username: amansingh9097
+twitter_username: yum_dude
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: amansingh9097
-linkedin_username: amansingh9097
+
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
