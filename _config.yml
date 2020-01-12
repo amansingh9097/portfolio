@@ -5,10 +5,9 @@ favicon: images/favicon.ico
 # Personal info
 name: Aman Singh
 title: Data Scientist
-icon: images/india-flag-icon-16.png
 email: amansingh9097@gmail.com
 # phone: Your phone number (optional)
-website: www.aman-singh.com
+website: aman-singh.com
 
 darkmode: false
 
