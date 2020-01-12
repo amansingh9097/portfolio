@@ -2,6 +2,5 @@
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-    <a href="https://amansingh9097.github.io/project-9097/">Project Site</a>
   {% endfor %}
 </div>
