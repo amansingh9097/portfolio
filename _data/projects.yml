@@ -1,7 +1,7 @@
 - layout: top-middle
   name: A collection of some of my Projects
-  link: www.aman-singh.com
-  github: amansingh9097
+  link: https://amansingh9097.github.io/showcase/
+  github: amansingh9097/showcase
   quote: >
     This is my personal space where I showcase some of my projects.
   description: | # this will include new lines to allow paragraphs
