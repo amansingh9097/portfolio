@@ -8,9 +8,9 @@
     - Designed and implemented and entire analytical dashboard from end to end comprising of architectural designing, setting-up a backend logic, writing microservices, auto-refreshing capabilities and finally presenting the insights on a dashboard using a data visualization tool.
 
 - layout: left
-  company: Online Mentoring on Artificial Intelligence
-  link: www.aman-singh.com
-  job_title: Machine Learning & Deep Learning Teacher (Part Time)
+  company: Online Mentoring
+  link: https://www.linkedin.com/in/amansingh
+  job_title: Machine Learning & Deep Learning Instructor (Part Time)
   dates: Dec 2019 - Present
   description: | # this will include new lines to allow paragraphs
     - I teach the working professional and students about Machine Learning and Deep Learning over the weekends.
@@ -22,7 +22,7 @@
   job_title: Deep Learning Instructor (Part Time)
   dates: July 2019 - Dec 2019
   description: | # this will include new lines to allow paragraphs
-    - I used to teach the working professional and students about Machine Learning and Deep Learning over the weekends.
+    - I used to teach the working professional about Deep Learning algorithms and its applications.
     
 - layout: left
   company: 3LOQ Labs Pvt Ltd
