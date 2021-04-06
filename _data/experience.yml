@@ -1,8 +1,17 @@
 - layout: left
+  company: PeopleTech Group
+  link: www.peopletech.com
+  job_title: Principal Data Scientist
+  dates: Feb 2021 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Working on a Fraud Detection problems for Amazon.
+    - Levarging Machine Learning & Deep Learning to further improve the Precision and Recall of Amazon's existing Fraud Detection Rule Engines.
+
+- layout: left
   company: Sunera Technologies Inc.
   link: www.suneratech.com
   job_title: Senior Data Scientist
-  dates: Feb 2019 - Present
+  dates: Feb 2019 - Feb 2021
   description: | # this will include new lines to allow paragraphs
     - Created a Competitive Landscape to determine DAI's existing competitors and also future forecast the possible competitors and the growth of development programs across different sectors in different different countries.
     - Designed and implemented and entire analytical dashboard from end to end comprising of architectural designing, setting-up a backend logic, writing microservices, auto-refreshing capabilities and finally presenting the insights on a dashboard using a data visualization tool.
