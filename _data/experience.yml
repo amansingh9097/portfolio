@@ -1,10 +1,10 @@
 - layout: left
-  company: PeopleTech Group
+  company: Amazon
   link: www.peopletech.com
-  job_title: Principal Data Scientist
+  job_title: Data Scientist II
   dates: Feb 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    - Currently working as a Senior Data Scientist for Amazon as client.
+    - Currently working as a Data Scientist for Amazon in the FinTech space.
 
 - layout: left
   company: Sunera Technologies Inc.
