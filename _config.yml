@@ -1,9 +1,10 @@
 ### Site Settings ###
 title               : Brainsick Biscuit
 description         : >-
-                      Decoding Human Intelligence :man: using Artificial Intelligence :moyai:
+                      Decoding Life & Human Intelligence :man: 
+                      using Data & Artificial Intelligence :moyai:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-# repository          : amansingh9097/brainsickbiscuit     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : amansingh9097/brainsickbiscuit.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -22,24 +23,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Aman Singh
   image             : pages/bsb.gif
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : amansingh9097@gmail.com
-  facebook          : your_username
-  github            : https://github.com/amansingh9097
+# facebook          : your_username
+  github            : amansingh9097
 # gitlab            : your_username
-  instagram         : https://www.instagram.com/amansingh9097/
+  instagram         : amansingh9097
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/amansingh
+  linkedin          : amansingh
 # medium            : your_username
 # soundcloud        : your_username
-  spotify           : https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j
+  spotify           : ww0938fas54yj8txb90c5rpiy
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : https://twitter.com/yum_dude
+  twitter           : yum_dude
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
